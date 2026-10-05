@@ -1,0 +1,3 @@
+Product: Airpods pro 3rd generation + 5000 mah magsafe combo offer
+Confirmed price: Rs. 2,999
+Source: public_html/list-product.php
